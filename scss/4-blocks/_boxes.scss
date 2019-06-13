@@ -1,0 +1,7 @@
+// BOXES
+
+.box {
+    @extend %box-base;
+    width: 400px;
+    height: auto;
+}
