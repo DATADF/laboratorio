@@ -1,5 +1,8 @@
-$color: blue;
-
-body {
-  background: $color;
-}
+// ALL CONTENTS
+@import "0-plans/plans-dir";
+@import "1-materials/materials-dir";
+@import "2-tools/tools-dir";
+@import "3-parts/parts-dir";
+@import "4-blocks/blocks-dir";
+@import "5-modules/modules-dir";
+@import "6-pages/pages-dir";

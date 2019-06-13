@@ -1,0 +1,19 @@
+// COLORS
+// Map da paleta de cores
+$primary-color: ('amarelo': #fef203,
+'vermelho': #ed1e27,
+'azul': #303295,
+'preto': #000000,
+'branco': #ffffff,
+);
+
+@each $color,
+$value in $primary-color {
+    .#{$color} {
+        background: $value;
+    }
+
+    .dark-#{$color} {
+        background: darken($value, 20%);
+    }
+}

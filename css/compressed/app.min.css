@@ -1,2 +1,2 @@
-body{background:blue}
+*,*::before,*::after{margin:0;padding:0;-webkit-box-sizing:border-box;box-sizing:border-box;background:white}.container{width:90%;max-width:1000px;margin:auto}body{background:#000}.amarelo{background:#fef203}.dark-amarelo{background:#9a9301}.vermelho{background:#ed1e27}.dark-vermelho{background:#990c12}.azul{background:#303295}.dark-azul{background:#171848}.preto{background:#000}.dark-preto{background:#000}.branco{background:#fff}.dark-branco{background:#ccc}
 /*# sourceMappingURL=app.min.css.map */
