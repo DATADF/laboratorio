@@ -1,1 +1,12 @@
 // BUTTONS
+
+a {
+    background: $color-secundary;
+    color: $color-base;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-size: $font-small;
+    font-weight: $normal;
+}

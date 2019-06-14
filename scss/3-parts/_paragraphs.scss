@@ -1,1 +1,8 @@
 // PARAGRAPHS
+
+p {
+    color: rgba($color-primary, 0.5);
+    padding: 10px 0;
+    font-size: $font-small;
+    font-weight: $normal;
+}
