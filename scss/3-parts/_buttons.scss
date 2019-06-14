@@ -1,9 +1,1 @@
 // BUTTONS
-
-.btn-base {
-    @extend %btn-base;
-
-    &:hover {
-        background: lighten($primary-color, 20%);
-    }
-}

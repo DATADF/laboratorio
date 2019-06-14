@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1546.307" height="1336.357" viewBox="0 0 1546.307 1336.357">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.466" y1="0.35" x2="0.146" y2="1.405" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#a7a7a7"/>
+    </linearGradient>
+    <filter id="Caminho_5" x="7.398" y="0" width="1538.91" height="1323.982" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Bg_body" transform="matrix(0.956, 0.292, -0.292, 0.956, -104.924, 238.751)" opacity="0.38">
+    <path id="Caminho_4" data-name="Caminho 4" d="M351.811,0s-78.727,154.994,24.6,216.5,15.8,233.1,124.2,249.712,140.232,339.51,282.925,194.357,285.956-184.463,416.3-168.471,107.834,48.089,202.552,66.541,42.177-19.666,61.859,43.069-9.736-66.68-2.355-80.212S1220.269-24.6,1220.269-24.6L361.652-18.452Z" fill="#5a5a5a"/>
+    <g transform="matrix(0.96, -0.29, 0.29, 0.96, 30.54, -259)" filter="url(#Caminho_5)">
+      <path id="Caminho_5-2" data-name="Caminho 5" d="M352.24,6.3s-98.458,167.744,25.526,231.56S384.3,398.508,525.454,454.83s128.98,280.134,271.672,134.981S1077.058,423.806,1207.407,439.8s39-21.733,133.723-3.281,16.652,22.861,36.333,85.6,214.42-50.906,221.8-64.437S1223.117-322.5,1223.117-322.5L417.818-12.932Z" transform="matrix(0.96, 0.29, -0.29, 0.96, -92.47, 226.27)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
