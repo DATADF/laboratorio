@@ -1,0 +1,9 @@
+// MIXINS
+
+@mixin box-base ($largura) {
+    width: $largura;
+    border-radius: $border-r;
+    border: $border;
+    display: flex;
+    flex-wrap: wrap;
+}

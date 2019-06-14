@@ -1,7 +1,5 @@
 // BOXES
 
 .box {
-    @extend %box-base;
-    width: 400px;
-    height: auto;
+    @include  box-base(32.5%);
 }
